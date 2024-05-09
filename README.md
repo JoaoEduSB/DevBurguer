@@ -13,6 +13,7 @@
 - JavaScript
 - Git e Github
 - Vercel
+- Api do Whatsapp
 
 ## Contato
 [(LinkedIn)](https://www.linkedin.com/in/joaoedusb/)
